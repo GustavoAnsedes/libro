@@ -1,1 +1,1 @@
-Fichero para almacenar logs
+Fichero para almacenar logs.
